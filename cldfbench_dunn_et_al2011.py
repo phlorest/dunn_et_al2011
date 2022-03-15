@@ -15,17 +15,14 @@ class Dataset(phlorest.Dataset):
                 detranslate=True),
             self.metadata,
             args.log)
-        posterior = self.sample(
-            self.raw_dir.read('utoaztecan-postburnin.trees.gz'),
-            n=800,
-            detranslate=True,
-            as_nexus=True)
+        # no burn-in to remove
+        posterior = self.raw_dir.read_trees(
+            'utoaztecan-postburnin.trees.gz', detranslate=True)
         args.writer.add_posterior(
-            posterior.trees.trees,
+            posterior,
             self.metadata,
             args.log)
         args.writer.add_data(
             self.raw_dir.read_nexus('utoaztecan.nex'),
             self.characters,
             args.log)
-

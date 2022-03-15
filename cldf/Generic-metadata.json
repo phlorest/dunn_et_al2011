@@ -27,20 +27,20 @@
         {
             "rdf:about": "https://github.com/phlorest/dunn_et_al2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "e60a716",
+            "dc:created": "21e4f9a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-57-g459b6703ab",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -131,7 +131,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 1,
+            "dc:extent": 801,
             "tableSchema": {
                 "columns": [
                     {
