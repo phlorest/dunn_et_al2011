@@ -1,4 +1,6 @@
-# Dataset dunn_et_al2011
+# Phlorest phylogeny derived from Dunn et al. 2011 'Uto-Aztecan (Dunn et al. 2011)'
+
+[![CLDF validation](https://github.com/phlorest/dunn_et_al2011/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/dunn_et_al2011/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1038/nature09923
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1038/nature09923
 
 
 ## CLDF Datasets

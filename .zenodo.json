@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Dunn et al. 2011 'Uto-Aztecan (Dunn et al. 2011)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,26 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Michael Dunn"
+        },
+        {
+            "name": "S.C. Levinson"
+        },
+        {
+            "name": "Russell D. Gray"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
