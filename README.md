@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Dunn et al. 2011 'Uto-Aztecan (Dunn et al. 2011)'
+# Phlorest phylogeny derived from Dunn et al. 2011 'Evolved structure of language shows lineage-specific trends in word-order universals'
 
 [![CLDF validation](https://github.com/phlorest/dunn_et_al2011/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/dunn_et_al2011/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Uto-Aztecan language family computed from a bayesian analysis scaled by substitutions.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1038/nature09923
+Source available online at https://doi.org/10.1038/nature09923
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/dunn_et_al2011/main/summary_tree.svg)
