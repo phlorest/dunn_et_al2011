@@ -8,7 +8,7 @@
     "dc:bibliographicCitation": "Dunn M, Greenhill SJ, Levinson SC & Gray RD. 2011. Evolved structure of language shows lineage-specific trends in word-order universals. Nature, 473(7345), 79-82.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1038/nature09923",
-    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Uto-Aztecan",
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/dunn_et_al2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "33eebbe",
+            "dc:created": "1365934",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
