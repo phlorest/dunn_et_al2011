@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Dunn et al. 2011 'Evolved structure of language shows lineage-specific trends in word-order universals'
 
 [![CLDF validation](https://github.com/phlorest/dunn_et_al2011/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/dunn_et_al2011/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250052.svg)](https://doi.org/10.5281/zenodo.8250052)
 
 ## How to cite
 
