@@ -10,6 +10,7 @@
     "scaling": "substitutions",
     "analysis": "bayesian",
     "family": "Uto-Aztecan",
+    "artefacts": ["raw/utoaztecan.nex"],
     "missing": {
         "data": "not retrievable",
         "cldf": "not available",
