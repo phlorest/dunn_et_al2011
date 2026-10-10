@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.893,
+          18.8854
+        ]
+      },
+      "properties": {
+        "Name": "Aztec_Tetelcingo",
+        "Glottocode": "tete1251",
+        "Glottolog_Name": "Tetelcingo Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5556,
+          20.1554
+        ]
+      },
+      "properties": {
+        "Name": "Aztec_Zacapoaxtla",
+        "Glottocode": "high1278",
+        "Glottolog_Name": "Highland Puebla Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.691,
+          33.5324
+        ]
+      },
+      "properties": {
+        "Name": "Cahuilla",
+        "Glottocode": "cahu1264",
+        "xd_ids": [
+          "xd1131",
+          "xd1439",
+          "xd1440"
+        ],
+        "Glottolog_Name": "Cahuilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.438436,
+          35.356093
+        ]
+      },
+      "properties": {
+        "Name": "Chemehuevi",
+        "Glottocode": "chem1251",
+        "xd_ids": [
+          "xd1190"
+        ],
+        "Glottolog_Name": "Chemehuevi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.97,
+          19.72
+        ]
+      },
+      "properties": {
+        "Name": "ClassicalAztec",
+        "Glottocode": "clas1250",
+        "xd_ids": [
+          "xd1301"
+        ],
+        "Glottolog_Name": "Classical Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0,
+          34.0
+        ]
+      },
+      "properties": {
+        "Name": "Comanche",
+        "Glottocode": "coma1245",
+        "xd_ids": [
+          "xd1222"
+        ],
+        "Glottolog_Name": "Comanche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.467,
+          22.4099
+        ]
+      },
+      "properties": {
+        "Name": "Cora",
+        "Glottocode": "elna1235",
+        "Glottolog_Name": "El Nayar Cora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.515,
+          33.3148
+        ]
+      },
+      "properties": {
+        "Name": "Cupeno",
+        "Glottocode": "cupe1243",
+        "xd_ids": [
+          "xd1132"
+        ],
+        "Glottolog_Name": "Cupe\u00f1o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0,
+          28.5
+        ]
+      },
+      "properties": {
+        "Name": "Eudeve",
+        "Glottocode": "eude1234",
+        "xd_ids": [
+          "xd1293"
+        ],
+        "Glottolog_Name": "Eudeve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.1
+        ]
+      },
+      "properties": {
+        "Name": "Gabrielino",
+        "Glottocode": "tong1329",
+        "xd_ids": [
+          "xd1128"
+        ],
+        "Glottolog_Name": "Tongva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.437,
+          27.8685
+        ]
+      },
+      "properties": {
+        "Name": "Guarijio",
+        "Glottocode": "huar1255",
+        "Glottolog_Name": "Huarijio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.535,
+          35.7653
+        ]
+      },
+      "properties": {
+        "Name": "Hopi",
+        "Glottocode": "hopi1249",
+        "xd_ids": [
+          "xd1268"
+        ],
+        "Glottolog_Name": "Hopi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.062,
+          21.954
+        ]
+      },
+      "properties": {
+        "Name": "Huichol",
+        "Glottocode": "huic1243",
+        "xd_ids": [
+          "xd1288"
+        ],
+        "Glottolog_Name": "Huichol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.679,
+          36.0538
+        ]
+      },
+      "properties": {
+        "Name": "Kawaiisu",
+        "Glottocode": "kawa1283",
+        "xd_ids": [
+          "xd1126"
+        ],
+        "Glottolog_Name": "Kawaiisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.772,
+          33.9479
+        ]
+      },
+      "properties": {
+        "Name": "Kitanemuk",
+        "Glottocode": "serr1255",
+        "Glottolog_Name": "Serrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.939,
+          33.3184
+        ]
+      },
+      "properties": {
+        "Name": "Luiseno",
+        "Glottocode": "luis1253",
+        "xd_ids": [
+          "xd1133"
+        ],
+        "Glottolog_Name": "Luiseno-Juane\u00f1o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.981,
+          26.4522
+        ]
+      },
+      "properties": {
+        "Name": "Mayo",
+        "Glottocode": "mayo1264",
+        "Glottolog_Name": "Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.347,
+          37.1935
+        ]
+      },
+      "properties": {
+        "Name": "Mono",
+        "Glottocode": "mono1275",
+        "xd_ids": [
+          "xd1164",
+          "xd1122",
+          "xd993",
+          "xd1162"
+        ],
+        "Glottolog_Name": "Mono (USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.536,
+          40.0799
+        ]
+      },
+      "properties": {
+        "Name": "NorthernPaiute",
+        "Glottocode": "nort2954",
+        "xd_ids": [
+          "xd1155",
+          "xd1200",
+          "xd1156",
+          "xd994",
+          "xd1157",
+          "xd1158",
+          "xd1154",
+          "xd1155",
+          "xd1160",
+          "xd989",
+          "xd1161",
+          "xd992"
+        ],
+        "Glottolog_Name": "Northern Paiute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.379,
+          26.4348
+        ]
+      },
+      "properties": {
+        "Name": "NorthernTepehuan",
+        "Glottocode": "nort2959",
+        "xd_ids": [
+          "xd1294"
+        ],
+        "Glottolog_Name": "Northern Tepehuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.06212,
+          31.15211
+        ]
+      },
+      "properties": {
+        "Name": "Opata",
+        "Glottocode": "opat1246",
+        "xd_ids": [
+          "xd1293"
+        ],
+        "Glottolog_Name": "Teguima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.901,
+          36.0007
+        ]
+      },
+      "properties": {
+        "Name": "Pannamint",
+        "Glottocode": "pana1305",
+        "xd_ids": [
+          "xd1166",
+          "xd1167",
+          "xd1165"
+        ],
+        "Glottolog_Name": "Panamint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.995,
+          31.7973
+        ]
+      },
+      "properties": {
+        "Name": "PapagoPima",
+        "Glottocode": "toho1245",
+        "xd_ids": [
+          "xd1287",
+          "xd1291"
+        ],
+        "Glottolog_Name": "Tohono O'odham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.326,
+          28.654
+        ]
+      },
+      "properties": {
+        "Name": "PimadeOnavas",
+        "Glottocode": "pima1248",
+        "Glottolog_Name": "Pima Bajo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.443,
+          13.8931
+        ]
+      },
+      "properties": {
+        "Name": "Pipil",
+        "Glottocode": "pipi1250",
+        "Glottolog_Name": "Pipil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.772,
+          33.9479
+        ]
+      },
+      "properties": {
+        "Name": "Serrano",
+        "Glottocode": "serr1255",
+        "xd_ids": [
+          "xd1130"
+        ],
+        "Glottolog_Name": "Serrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.688,
+          23.2553
+        ]
+      },
+      "properties": {
+        "Name": "SoutheasternTepehuan",
+        "Glottocode": "sout2977",
+        "Glottolog_Name": "Southwestern Tepehuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "Name": "SouthernPaiute",
+        "Glottocode": "sout2969",
+        "xd_ids": [
+          "xd1189",
+          "xd1187",
+          "xd1192",
+          "xd1188"
+        ],
+        "Glottolog_Name": "Southern Paiute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0,
+          38.0
+        ]
+      },
+      "properties": {
+        "Name": "SouthernUte",
+        "Glottocode": "utee1244",
+        "xd_ids": [
+          "xd1184",
+          "xd1197",
+          "xd1195",
+          "xd1193",
+          "xd1186",
+          "xd1152",
+          "xd1198",
+          "xd1194",
+          "xd1199",
+          "xd991"
+        ],
+        "Glottolog_Name": "Ute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.154,
+          27.5648
+        ]
+      },
+      "properties": {
+        "Name": "Tarahumara",
+        "Glottocode": "cent2131",
+        "xd_ids": [
+          "xd1286"
+        ],
+        "Glottolog_Name": "Central Tarahumara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.98934,
+          27.00003
+        ]
+      },
+      "properties": {
+        "Name": "Tubar",
+        "Glottocode": "tuba1279",
+        "Glottolog_Name": "Tubar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.163,
+          35.327
+        ]
+      },
+      "properties": {
+        "Name": "Tubatulabel",
+        "Glottocode": "tuba1278",
+        "xd_ids": [
+          "xd1118"
+        ],
+        "Glottolog_Name": "T\u00fcbatulabal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.681,
+          29.9446
+        ]
+      },
+      "properties": {
+        "Name": "Yaqui",
+        "Glottocode": "yaqu1251",
+        "xd_ids": [
+          "xd1292"
+        ],
+        "Glottolog_Name": "Yaqui"
+      }
+    }
+  ]
+}
